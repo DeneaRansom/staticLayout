@@ -1,0 +1,108 @@
+.purpleBack {
+    background-image: url(../staticLayout/assets/gradient-violet-bg.jpg);
+    position: relative;
+    width: 100%;
+    min-height: 600px;
+    background-size: cover;
+    padding-bottom: 5em;
+}
+#heading1 {
+
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 40pt;
+    padding: 10px 10px 10px 10px;
+    
+}
+#kastLogo {
+    justify-items: start;
+    margin-top: -4em;
+    position: fixed;
+    margin-left: 2em;
+}
+
+#lapTop {
+   margin: auto;
+   width: 30%;
+   padding-top: 6em;
+   padding-bottom: 3em;
+}
+
+#parag {
+    text-align: center;
+    color: white;
+    line-height: 24px;
+    font-size: 14pt;
+    margin: 20px 10px;
+   
+    font-family: sans-serif;
+}
+
+#orangeButton {
+    background-color: orange;
+    text-align: center;
+    width: 200px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    
+    
+   
+}
+.centerOrange {
+  position: sticky;
+  align-self: center;
+  
+}
+a {
+    text-decoration: none;
+}
+
+#whiteBack {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: inherit;
+    min-height: 700px;
+    width: 100%;
+    margin: auto;
+  
+}
+
+h5 {
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+.logos {
+
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-left: 20em;
+    margin-bottom: 20em;
+    position: center;
+    background-color: white;
+    background-position: bottom;
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+    
+}
+
+.review {
+    margin: auto;
+   position: absolute;
+   text-align: center;
+   font-style: italic; 
+    bottom: -26em;
+    left: 25.5em;
+    font-size: 16pt;
+}
+
+
