@@ -30,9 +30,12 @@
 
 #lapTop {
    margin: auto;
-   width: 29%;
+   margin-right: auto;
+   margin-left: 26em;
+   width: 30%;
    padding-top: 4.5em;
    padding-bottom: 3em;
+   
 }
 
 #parag {
@@ -89,7 +92,7 @@ h5 {
     width: 12.5em;
     height: 12.5em;
     margin: auto;
-    margin-left: 20em;
+    margin-left: 11.5em;
     margin-right: 20em;
     position: center;
     background-color: white;
@@ -106,7 +109,7 @@ h5 {
    text-align: center;
    font-style: italic; 
     bottom: -35.5em;
-    left: 25.5em;
+    left: 15em;
     font-size: 16pt;
 }
 
